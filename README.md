@@ -1,81 +1,24 @@
-<img src="https://raw.githubusercontent.com/shubhamdhingra007/shubhamdhingra007/master/assets/profile.png">
+## Hi, I'm Shubham Dhingra
 
-<h2> Hey there! I'm Shubham</h2>
+Senior Software Engineer · Design systems & frontend platform · React, TypeScript, Node.js · MCP server, LLM evals & AI developer tooling
 
-<h2>WORK IN PROGRESS</h2>
+I build design systems and the developer tooling around them. At VistaPrint I lead platform work on [SWAN](https://vista.design/swan/), the design system used by 420+ repositories across 48 teams. I own its tooling end to end: lint plugins, codemods, usage metrics, the docs site, CI/CD, internationalisation and an MCP server for AI coding agents.
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+I have 10+ years of frontend experience. Before the design system, I built customer-facing products at VistaPrint: Logomaker, postcard mailing and My Account. Earlier I built progressive web apps at MoveInSync and Infosys.
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+### Recent work
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+- Led the [SWAN MCP server](https://vista.design/swan/tools/mcp/), which gives AI coding agents SWAN docs, tokens, icons and deprecations. LLM evals block merges, and the pass rate rose from 29% to ~90% across 60+ evals.
+- Designed and launched the [SWAN ESLint](https://vista.design/swan/tools/eslint-plugin/) and Stylelint plugins. Their 19 rules run in 264 repositories.
+- Built the design-system metrics platform. It scans 420+ repositories and feeds the Snowflake and Looker dashboards the team uses for OKRs and deprecation planning.
+- Wrote [codemods](https://vista.design/swan/tools/codemods/) that move consumer repositories across SWAN's breaking releases.
+- Automated the SWAN release with CI scripts, cutting releases from 2–4 hours to under 30 minutes.
+- Built a Snyk remediation pipeline: 80 merged MRs that fixed 199 vulnerabilities.
 
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-- 🖥 &nbsp;
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
-<br/>
+### Stack
 
-<a href="https://github.com/shubhamdhingra007">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shubhamdhingra007&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamdhingra007&theme=buefy&layout=compact" />
-</a>
+TypeScript, React, Node.js, Storybook, Nx, GitLab CI/CD, Snowflake, Looker, MCP, Promptfoo.
 
-<br/>
+### Connect
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="center">
-<a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/shubham-dhingra-2019/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
-</p>
-
-⭐️ From [shubhamdhingra007](https://github.com/shubhamdhingra007)
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=SHUBHAMDHINGRA007)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-<!--
-**shubhamdhingra007/shubhamdhingra007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Website](https://shubhamdhingra.web.app) · [LinkedIn](https://www.linkedin.com/in/shubham-dhingra-2019/) · [Email](mailto:dhingrashubham94@gmail.com)
